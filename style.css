@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+}
+
+input{
+    text-align: right;
+    background-color: rgb(78, 97, 72);
+    font-size: 26px;
+    width: 186px;
+    height: 39px;
+}
+
+.calculator{ 
+    background-color: black;
+    padding: 11px;
+    border-radius: 15px;
+    display: inline-block;
+    
+}
+button
+{
+    background-color: rgb(49, 48, 48);
+    color: white;
+    height: 45px;
+    width: 45px;
+
+}
+
+table
+{
+    margin: auto;
+}
+
+.btnblack
+{
+    background-color: black;
+}
+
+.specialbtn
+{
+    background-color: rgb(255, 196, 0);
+}
